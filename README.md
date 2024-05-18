@@ -24,7 +24,7 @@ Alternatively, you can play the game online by visiting [Flappy Bird Game](https
 ## Usage
 
 - Open the game.
-- Tap the screen to make the bird flap.
+- Enter the screen to make the bird flap.
 - Guide the bird through gaps in the pipes.
 - Earn points by passing through pipes.
 - Avoid hitting pipes or the ground.
