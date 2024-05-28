@@ -32,8 +32,7 @@ Alternatively, you can play the game online by visiting [Flappy Bird Game](https
 
 ## Example
 <img width="952" alt="Screenshot 2024-05-17 182153" src="https://github.com/DineshDuvvuri/Flappy_bird_game/assets/152904153/500e83b3-229a-446f-ba1e-e153fbec3c08">
-<img width="952" alt="Screenshot 2024-05-17 182317" src="https://github.com/DineshDuvvuri/Flappy_bird_game/assets/152904153/16a1c4c0-1ff3-4bc0-9e99-c2eb5cbd6bfa">
-<img width="952" alt="Screenshot 2024-05-17 182427" src="https://github.com/DineshDuvvuri/Flappy_bird_game/assets/152904153/77c1a342-4348-4e1e-9131-09446ed49bb6">
+
 
 
 
