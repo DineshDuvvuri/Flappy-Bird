@@ -1,6 +1,7 @@
 
-## Flappy Bird Game
+## Flappy Bird Game 
 
+NOTE : Desktop Game.
 Welcome to the **Flappy Bird Game**! This project is a simple implementation of the  Game using HTML, CSS, and JavaScript.
 
 ## Introduction
